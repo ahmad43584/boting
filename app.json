@@ -67,6 +67,7 @@
         "ALIVE_LOGO": {
             "description": "Add Your Alive Logo",
             "required": false
+            "value": "https://i.ibb.co/kMQNpvD/6bf144aa9545.jpg"
         },
         "WARN_MSG": {
             "description": "WANR KICK MASSAGE .. වර්න් ලබා දී කික් වන විට යෙදිය යුතු පණිවිඩය ඇතුලත් කරන්න",
