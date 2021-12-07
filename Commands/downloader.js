@@ -80,7 +80,7 @@ SewQueen['IntroduceCMD']({
 await sendMessageDownloader(QueenSew, input, 'imgurl')
         } catch (e) {
   if(e.message.includes('display')) {
-     return await QueenSew.client.sendMessage(QueenSew.jid,'Your Imgbb APIKEY is invalid.. please add the api key ( api.imgbb.com )',MessageType.text)
+     return await QueenSew.client.sendMessage(QueenSew.jid,'Your amb Imgbb APIKEY is invalid.. please add the api key ( api.imgbb.com )',MessageType.text)
      } else {
    return await QueenSew.client.sendMessage(QueenSew.jid,'Do Not Use Bot Here.. This Is Your Log Number',MessageType.text)
    }
