@@ -41,7 +41,7 @@ var SRİ_USER = ''
 var RU_USER = ''
 var USA_USER = ''
 var OTHER = ''
-if (Details.LANG == 'EN') ADMİN_USER = '✪\n✨ ➢ *Admins:* ', USER_USER = '✨ ➢ *All memberss:* ', SRİ_USER = '✨ ➢ *SL Members:* ', TR_USER = '✨ ➢ *Tr Members:* ', Hİ_USER = '✨ ➢ *In Members:* ', AZ_USER = '✨ ➢ *Az Members:* ', RU_USER = '✨ ➢ *Ru Members:* ', USA_USER = '✨ ➢ *USA Members:* ', OTHER = '✨ ➢ *Other members:* '
+if (Details.LANG == 'EN') ADMİN_USER = '✪\n✨ ➢ *Admins:* ', USER_USER = '✨ ➢ *All members:* ', SRİ_USER = '✨ ➢ *SL Members:* ', TR_USER = '✨ ➢ *Tr Members:* ', Hİ_USER = '✨ ➢ *In Members:* ', AZ_USER = '✨ ➢ *Az Members:* ', RU_USER = '✨ ➢ *Ru Members:* ', USA_USER = '✨ ➢ *USA Members:* ', OTHER = '✨ ➢ *Other members:* '
 if (Details.LANG == 'SI') ADMİN_USER = '✪\n✨➢ *පරිපාලකවරුන්:* ', USER_USER = '✨➢ *මුළු සාමාජීකයින්:* ', TR_USER = '✨➢ *තුර්කි අංක:* ', Hİ_USER = '✨➢ *ඉන්දියානු අංක:* ', AZ_USER = '✨➢ *Az අංක:* ', SRİ_USER = '✨➢ *ශ්‍රී ලාංකික අංක:* ', RU_USER = '✨➢ *රුසියානු අංක:* ', USA_USER = '✨➢ *USA අංක :* ', OTHER = '✨➢ *වෙනත් අංක:* '
 
 
